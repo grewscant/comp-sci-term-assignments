@@ -11,6 +11,14 @@ An archive of my term assignments that I did / do as part of my course as a CS U
       - [OS](https://github.com/grewscant/comp-sci-term-assignments/tree/master/SE/OS)
       - [PP](https://github.com/grewscant/comp-sci-term-assignments/tree/master/SE/PP)
 
+ - TE
+    - SEM 5
+      - [BCE](https://github.com/grewscant/comp-sci-term-assignments/tree/master/TE/BCE)
+      - [CN](https://github.com/grewscant/comp-sci-term-assignments/tree/master/TE/CN)
+      - [DWM](https://github.com/grewscant/comp-sci-term-assignments/tree/master/TE/DWM)
+      - [IP](https://github.com/grewscant/comp-sci-term-assignments/tree/master/TE/IP)
+      - [TCS](https://github.com/grewscant/comp-sci-term-assignments/tree/master/TE/TCS)
+
  
  👨‍🔧 Disclaimer
  ==================
